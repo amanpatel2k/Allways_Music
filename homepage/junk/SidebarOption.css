@@ -1,0 +1,28 @@
+.sidebarOption {
+    display: flex;
+    align-items: center; 
+    cursor: pointer;
+  }
+  
+.sidebarOption:hover {
+    background-color: #414344;
+    border-radius: 40px;
+    transition: color 100ms ease-out;
+  }
+  
+.top-react-icons { 
+    padding: 25px;
+    font-size: 25px;
+    color: white
+  }
+  
+.sidebarOption > h2 {
+    font-weight: 800;
+    font-size: 20px;
+    margin-right: 20px;
+  }
+  
+  .sidebarOption--active {
+    color: whitesmoke
+  }
+  

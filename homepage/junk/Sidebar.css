@@ -1,0 +1,53 @@
+.sidebar {
+
+    border-right: 1px solid #e6ecf0;
+    flex: 0.3;
+    min-width: 250px;
+    padding-left: 30px;
+    padding-right: 30px; 
+} 
+  
+.sidebar__twitterIcon {
+    font-size: 50px !important;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+  
+.sidebar__login{
+    padding: 15px;
+    margin-top: 170px;
+}
+  
+.sidebar__login:hover{
+    background-color: #414344;
+    border-radius: 40px;
+    transition: 100ms ease-out;
+}
+  
+/* .sb-avatar {
+    size: 20px !important;
+    border-radius: 100% !important;
+    object-fit: cover !important;
+    padding-right: 10px !important;
+} */
+  
+.sidebar__profile__avatar {
+    float: left;
+    height: 75px;
+    width: 75px; 
+    margin-right: 10px;
+    padding-left: 60px;
+}
+  
+.sidebar__profile {
+      font-weight: bold;
+      font-size: 20px;
+      line-height: 1;
+}
+.sidebar__username {
+    color: #888;
+    font-size: 15px;
+    font-style: italic;
+    line-height: 1.25;
+}
