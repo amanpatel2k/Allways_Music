@@ -74,5 +74,6 @@ npm install -g npm
 ---
 <br> Users will be able to edit their attributes, such as their username and their profile picture. When the user clicks on change password, an email will be sent to the email address provided by the user. Additionally, the user’s playlists will be displayed below, giving a brief overview of that playlist itself. </br>
 
-<img width="1440" alt="Profile Page" src="https://github.com/user-attachments/assets/3bffe70f-4267-4d12-ab7c-6e2822d385c9">
-<img width="1440" alt="Profile Page_2" src="https://github.com/user-attachments/assets/cd88c657-c7d5-485a-82ae-9f6bff3514d8">
+<img width="1440" alt="Profile Page" src="https://github.com/user-attachments/assets/cd88c657-c7d5-485a-82ae-9f6bff3514d8">
+<img width="1440" alt="Profile Page_2" src="https://github.com/user-attachments/assets/3bffe70f-4267-4d12-ab7c-6e2822d385c9">
+
