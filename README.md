@@ -52,31 +52,27 @@ npm install -g npm
 ---
 <br> This is the welcome page of the Allways Music application. This page allows the user to learn more about this application, such as a brief introduction, credits, and what music applications/platforms work with this application. Overall, it is an introduction page to our application. </br>
 
-<img width="1440" alt="Dashboard" src="https://github.com/GooseM3/CPSC-491/assets/50725935/582dddd1-d0b7-458d-b1b0-d2218d3296b4">
+<img width="1440" alt="Dashboard Page" src="https://github.com/user-attachments/assets/834f105f-ee5a-4c11-bead-af3df023a87b">
 
 ### Convert Page
 ---
 <br> The converted page is where users can convert their public playlist from any music platform to create a generic playlist stored on our database and accessible on the Playlist page. The user will enter a public ID associated with an application and select the music platform related to the playlist. An example is such a public Spotify playlist URL is https://open.spotify.com/playlist/3ybZkcoA09pYekp0DIo1OP, where the ID is after the playlist/ which you will input as the public ID. Once the user enters all the parameters, the client can click the convert button to generate a generic playlist that they can view on the playlist page. </br>
 
-<img width="1440" alt="Convert" src="https://github.com/GooseM3/CPSC-491/assets/50725935/bb9a231a-0269-4284-a2d3-04cf7461d2f9">
+<img width="1440" alt="Convert Page" src="https://github.com/user-attachments/assets/ef5001e6-29d2-4377-baa7-7cf41a277769">
 
 ### Playlist Page
 ---
 <br> The playlist page displays the user's generic music playlists already converted. This page will display all the music playlists that the users converted. Users will be shown a table of detailed information regarding song titles, artists, and time duration for each of their playlists. Also, the users can now open the playlist on their desired music platform, such as Spotify or Apple Music.  </br>
 
-<img width="1440" alt="Playlist" src="https://github.com/GooseM3/CPSC-491/assets/50725935/2d81abf8-1673-4050-b0e5-0c0aac52f2bb">
+<img width="1440" alt="Playlist Page" src="https://github.com/user-attachments/assets/a74b2d8e-4040-4a02-85c7-5828b21699b7">
 
 <br> Additionally, users can click the "View2" button on a given playlist to see their song in a different visual format visually. Each song will be wrapped in a card where each card will display the song's image, the title of the song, the artist, and the song's album. </br>
 
-<img width="1440" alt="Playlist View2" src="https://github.com/GooseM3/CPSC-491/assets/50725935/938d30cd-7218-49e2-bc23-2de849088b47">
+<img width="1440" alt="Playlist Detail" src="https://github.com/user-attachments/assets/63c4e1fc-d6f4-4590-b120-0831c1998def">
 
 ### Profile Page
 ---
 <br> Users will be able to edit their attributes, such as their username and their profile picture. When the user clicks on change password, an email will be sent to the email address provided by the user. Additionally, the user’s playlists will be displayed below, giving a brief overview of that playlist itself. </br>
 
-<img width="1440" alt="Profile Page" src="https://github.com/GooseM3/CPSC-491/assets/50725935/4d98bde4-3012-4531-9ab1-b5e9369e70d0">
-
-<img width="1440" alt="Profile Page_2" src="https://github.com/GooseM3/CPSC-491/assets/50725935/e16bf933-6c03-4ff7-b7a5-efb4fb90ba8e">
-
-
-
+<img width="1440" alt="Profile Page" src="https://github.com/user-attachments/assets/3bffe70f-4267-4d12-ab7c-6e2822d385c9">
+<img width="1440" alt="Profile Page_2" src="https://github.com/user-attachments/assets/cd88c657-c7d5-485a-82ae-9f6bff3514d8">
